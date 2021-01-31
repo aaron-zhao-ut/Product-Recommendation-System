@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I often see ad that contain my favriot product, I wonder how that happen.
+I often see ad that contain my favriot product, I wonder how that happen.  
 Hence here is an Analysis of sales performance with Tableau and a product recommendation system.
 
 ### Built With
